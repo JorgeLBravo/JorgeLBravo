@@ -6,7 +6,7 @@
 
     • 😎 Open to opportunities
 
-    • 📫 Contact me: raven.int.20@gmail.com
+    • 📫 Contact me: jorgelbravo29@outlook.com
 
 <!---
 JorgeLBravo/JorgeLBravo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
