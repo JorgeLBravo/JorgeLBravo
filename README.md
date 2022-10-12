@@ -1,12 +1,12 @@
-• 👋 Hi, I’m @JorgeLBravo
+    • 👋 Hi, I’m @JorgeLBravo
 
-• 👀 I’m interested in Microservices
+    • 👀 I’m interested in Microservices
 
-• 🌱 I’m currently learning Node.js
+    • 🌱 I’m currently learning Node.js
 
-• 😎 Open to opportunities
+    • 😎 Open to opportunities
 
-• 📫 Contact me: raven.int.20@gmail.com
+    • 📫 Contact me: raven.int.20@gmail.com
 
 <!---
 JorgeLBravo/JorgeLBravo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
