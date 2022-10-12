@@ -1,7 +1,11 @@
 • 👋 Hi, I’m @JorgeLBravo
+
 • 👀 I’m interested in Microservices
+
 • 🌱 I’m currently learning Node.js
+
 • 😎 Open to opportunities
+
 • 📫 Reach me: +51940757066
 
 <!---
