@@ -2,7 +2,7 @@
 
     • 👀 I’m interested in Microservices
 
-    • 🌱 I’m currently Java
+    • 🌱 I’m currently learning Java
 
     • 😎 Open to opportunities
 
