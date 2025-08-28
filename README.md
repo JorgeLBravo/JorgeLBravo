@@ -2,11 +2,11 @@
 
     • 👀 I’m interested in Microservices
 
-    • 🌱 I’m currently learning Node.js
+    • 🌱 I’m currently Java
 
     • 😎 Open to opportunities
 
-    • 📫 Contact me: jorgelbravo29@outlook.com
+    • 📫 Contact me: raven.int.20@gmail.com
 
 <!---
 JorgeLBravo/JorgeLBravo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
