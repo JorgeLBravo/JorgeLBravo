@@ -1,6 +1,6 @@
     • 👋 Hi, I’m @JorgeLBravo
 
-    • 👀 I’m interested in Microservices
+    • 👀 I’m interested in Java
 
     • 🌱 I’m currently learning Java
 
