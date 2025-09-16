@@ -1,10 +1,6 @@
     • 👋 Hi, I’m @JorgeLBravo
 
-    • 👀 I’m interested in Java
-
     • 🌱 I’m currently learning Java
-
-    • 😎 Open to opportunities
 
     • 📫 Contact me: raven.int.20@gmail.com
 
